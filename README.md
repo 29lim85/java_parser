@@ -2,7 +2,8 @@
 
 Welcome to the **HTML Parser Extravaganza**, the world's most thrilling and action-packed HTML parser program! Strap in and get ready to wrestle with tags, attributes, and all the delightful chaos that HTML has to offer. 
 
-![12](https://github.com/29lim85/java_parser/assets/15078613/29873d68-2001-448a-a1bd-6eda74511f08)
+
+![1](https://github.com/29lim85/java_parser/assets/15078613/cbbfd578-2c9f-4144-98c7-0b4bee589c5d)
 
 
 ## Features 🚀
