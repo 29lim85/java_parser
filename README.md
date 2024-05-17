@@ -28,7 +28,7 @@ Welcome to the **HTML Parser Extravaganza**, the world's most thrilling and acti
 - **Main.java**: The entry point of our program. Think of it as the director of this blockbuster.
 - **InfoPopupGUI.java**: The star of the show. Handles the GUI and all the glamorous pop-ups.
 - **HTMLParser.java**: The unsung hero. Does all the heavy lifting of parsing HTML.
-- **ExcelExporter.java**: The reliable sidekick. That was downlouded in China forum.
+- **ExcelExporter.java**: The reliable sidekick. That wasn`t downlouded in China forum.
 
 ## Fun Facts 🎉
 
