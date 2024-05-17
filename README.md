@@ -1,6 +1,6 @@
 # HTML Parser Extravaganza 🎉
 
-Welcome to the **HTML Parser Extravaganza**, the world's most thrilling and action-packed HTML parser program! Strap in and get ready to wrestle with tags, attributes, and all the delightful chaos that HTML has to offer. Brought to you by Lukov and his trusty sidekick, ChatGPT4o.
+Welcome to the **HTML Parser Extravaganza**, the world's most thrilling and action-packed HTML parser program! Strap in and get ready to wrestle with tags, attributes, and all the delightful chaos that HTML has to offer. 
 
 ## Features 🚀
 
@@ -11,14 +11,7 @@ Welcome to the **HTML Parser Extravaganza**, the world's most thrilling and acti
 ## Installation 🛠️
 
 1. Clone the repo:
-    ```bash
-    git clone https://github.com/yourusername/html-parser-extravaganza.git
-    ```
-2. Navigate to the project directory:
-    ```bash
-    cd html-parser-extravaganza
-    ```
-3. Open the project in your favorite Java IDE (or the one you tolerate the most).
+2. Open the project in your favorite Java IDE (or the one you tolerate the most).
 
 ## Usage 📖
 
@@ -35,7 +28,7 @@ Welcome to the **HTML Parser Extravaganza**, the world's most thrilling and acti
 - **Main.java**: The entry point of our program. Think of it as the director of this blockbuster.
 - **InfoPopupGUI.java**: The star of the show. Handles the GUI and all the glamorous pop-ups.
 - **HTMLParser.java**: The unsung hero. Does all the heavy lifting of parsing HTML.
-- **ExcelExporter.java**: The reliable sidekick. Exports parsed data to Excel with style.
+- **ExcelExporter.java**: The reliable sidekick. That was downlouded in China forum.
 
 ## Fun Facts 🎉
 
